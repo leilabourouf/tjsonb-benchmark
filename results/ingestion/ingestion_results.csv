@@ -1,0 +1,7 @@
+system,dataset,rows_or_sequences,time_sec,throughput_per_sec
+timescale,small,2218351,143.5965,15448.5
+mobility,small,55,56.4387,0.97
+timescale,medium,11091755,812.1151,13657.86
+mobility,medium,275,278.8077,0.99
+timescale,large,22183510,1618.2739,13708.13
+mobility,large,550,651.7642,0.84

@@ -1,0 +1,7 @@
+system,dataset,table,total_bytes,table_bytes,index_bytes,toast_bytes,total_mb,table_mb,index_mb,toast_mb
+mobility,small,readings_mobility_small,47374336,8192,8192,47357952,45.18,0.01,0.01,45.16
+mobility,medium,readings_mobility_medium,236716032,24576,32768,236658688,225.75,0.02,0.03,225.7
+mobility,large,readings_mobility_large,473391104,40960,49152,473300992,451.46,0.04,0.05,451.38
+timescale,small,readings_timescale_small,601915392,367394816,234201088,319488,574.03,350.38,223.35,0.30
+timescale,medium,readings_timescale_medium,3165315072,1908695040,1255890944,729088,3018.68,1820.27,1197.71,0.70
+timescale,large,readings_timescale_large,6334832640,3817373696,2516213760,1245184,6041.37,3640.53,2399.65,1.19
